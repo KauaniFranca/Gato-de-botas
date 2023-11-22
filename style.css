@@ -2,13 +2,14 @@ body {
     background: #0673b3
 }
 
+h1 {
+    text-align: center;
+}
+
 p {
     text-align: center;
 }
 
 em strong {
     color: #dfd3d3;
-}
-h1 {
-    text-align: center;
 }
