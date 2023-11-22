@@ -1,8 +1,11 @@
-p {
-    text-align: center;
-    background: #CCCCCC
+body {
+    background: #0673b3
 }
 
-h1{
-    background: #2159a3
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #dfd3d3;
 }
